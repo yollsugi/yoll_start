@@ -1,0 +1,21 @@
+body {
+  background: beige;
+}
+
+/* 마우스 컬러에 갖다대면 rgb 조정할 수 있는 창 뜬다 */
+
+.col-sm-2 {
+  background: rebeccapurple;
+}
+
+.col-sm-4 {
+  background: blue;
+}
+
+.col {
+  background: yellowgreen;
+}
+
+.col_2 {
+  background: goldenrod;
+}
